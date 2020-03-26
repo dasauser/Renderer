@@ -1,0 +1,15 @@
+{
+    "name": "dasauser/renderer",
+    "authors": [
+        {
+            "name": "dasauser",
+            "email": "dasauser@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "dasauser\\Renderer\\": "src/"
+        }
+    }
+}
